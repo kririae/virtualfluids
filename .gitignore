@@ -54,3 +54,5 @@ stl/
 
 # User Settings
 CMakeUserPresets.json
+
+compile_commands.json

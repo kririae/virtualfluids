@@ -33,10 +33,11 @@
 #ifndef BoundaryQs_H
 #define BoundaryQs_H
 
-#include <vector>
-#include <string>
+#include <cstdint>
 #include <fstream>
 #include <memory>
+#include <string>
+#include <vector>
 
 #include "Calculation/Calculation.h"
 
